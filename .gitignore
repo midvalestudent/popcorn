@@ -1,0 +1,9 @@
+# macosx
+.*DS_Store
+
+# editor
+~*
+*.sw[po]
+
+# configuration
+Makefile.local

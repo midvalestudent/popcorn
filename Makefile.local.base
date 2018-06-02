@@ -1,0 +1,4 @@
+## Local configs for project ##
+
+# install location
+BIN_DIRECTORY="$(HOME)/bin"
