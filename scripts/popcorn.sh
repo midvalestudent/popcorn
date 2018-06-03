@@ -51,7 +51,7 @@ shift $((OPTIND-1))
 FILENAME=$1
 shift
 
-if [ -z $FILENAME ]
+if [ -z "$FILENAME" ]
 then
     usage
 fi
